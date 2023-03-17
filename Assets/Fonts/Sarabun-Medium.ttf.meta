@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ce53ebb24a3eed947a82996496354ee2
+guid: ad484f7a750a8b141b0c8482c171df44
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Dawning of a New Day
+  - Sarabun
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
